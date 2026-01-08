@@ -1,0 +1,31 @@
+{
+  "version": "1.3",
+  "metadata": {
+    "deviceId": "device_1767836682226_21q9hwkij",
+    "deviceName": "Win32-Chrome-143-0-0-0",
+    "date": "2026-01-08",
+    "time": "05-53-47",
+    "timestamp": "2026-01-08T02:53:47.044Z",
+    "testName": "Grade-11_Math_Unit-1_Test",
+    "savedAt": "1/8/2026, 5:53:47 AM",
+    "generator": "Edu-Test-Generator-hot-file",
+    "originalFormat": "smartpicker_hot_file_v1"
+  },
+  "hotFile": {
+    "config": {
+      "grade": "Grade 11",
+      "subject": "Math",
+      "units": [
+        1
+      ],
+      "alternatives": [
+        {
+          "type": "True or False",
+          "amount": 10,
+          "level": "Easy"
+        }
+      ]
+    },
+    "results": null
+  }
+}
